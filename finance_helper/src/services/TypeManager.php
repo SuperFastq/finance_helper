@@ -1,6 +1,6 @@
 <?php
 
-class TypeManager extends BaseService
+class TypeManager extends BaseManager
 {
     public function __construct()
     {

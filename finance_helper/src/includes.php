@@ -1,9 +1,10 @@
 <?php
 
 //entities
+require_once 'entities/Type.php';
 
 //sql
-require_once 'src/sql/DataBase.php';
+require_once 'sql/DataBase.php';
 
 //services
-require_once 'src/services/BaseService.php';
+require_once 'services/BaseManager.php';
